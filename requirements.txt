@@ -1,9 +1,11 @@
 # requirements.txt
-channels:
-  snowflake-snowpark-paython
-dependencies:
-  streamlit
 
+snowflake-snowpark-python
+
+streamlit
+
+requests
+ 
 
  
  
